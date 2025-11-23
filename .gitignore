@@ -1,0 +1,16 @@
+env/
+my_venv/
+*.env
+*.pyenv
+__pycache__/
+*.py[cod]
+.idea/
+.vscode/
+*.iml
+*.log
+*.bak
+*.swp
+Thumbs.db
+.DS_Store
+tmp_data.txt
+.ipynb_checkpoints/
